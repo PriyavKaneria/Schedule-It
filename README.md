@@ -6,7 +6,7 @@ This is a python project made for the CS Practical Exam Boards 2020.
 It is an app that can help students of age 10 to 18 for scheduling their day in a much more productive way.
 The scheduling is based on a few simple questions the app asks.
 
-It gives is quite ideal schedule that no one follows but stil can give students motivation to study with play.
+It gives quite ideal schedules that no one follows but stil it can give students motivation to study with play.
 
 ## Installation
 Follow below steps to checkout the project for yourself-
