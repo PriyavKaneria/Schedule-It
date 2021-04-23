@@ -18,4 +18,8 @@ Follow below steps to checkout the project for yourself-
 - Alternatively, you can also download the zip file locally
 - You are now ready to test the project :wink: :thumbsup:
 
+## Screenshots
+![Demo Screenshot](https://imgur.com/U6Jx41c.png)
+It even has dark theme!!
+
 ### Thank you for checking out my code. Follow me for more such projects.
